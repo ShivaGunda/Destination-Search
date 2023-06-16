@@ -1,0 +1,17 @@
+.list {
+  list-style-type: none;
+  margin: 15px;
+  min-width: 200px;
+  flex-grow: 1;
+}
+
+.listImage {
+  height: 220px;
+  width: 100%;
+  display: flex;
+  flex-shrink: 1;
+}
+
+.para {
+  font-weight: 600;
+}
